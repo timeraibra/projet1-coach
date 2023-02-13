@@ -1,0 +1,149 @@
+body{
+    font-family: 'Lora', serif;
+}
+.temo{
+   margin-top: 10%;
+   color: #3c4975ef;
+   font-weight: 300;
+   Font-size: 32px
+}
+
+
+.imag1{
+    background-image: url(./images/pattern-bg.svg);
+}
+
+
+.btn1{
+    position: relative;
+    bottom: 95px;
+    left: 67%;
+    border: none;
+    color: #f0ecece1;
+}
+
+
+/* min-width: 768px and max-width: 1023px */
+
+@media  screen and (min-width: 768px) and (max-width: 1191px) {
+
+    .btn1{
+        position: relative;
+        bottom: 492px;
+        left: 25%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (min-width: 767px) and (min-width: 987px) {
+    .btn1{
+        position: relative;
+        bottom: 179px;
+        left: 72%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+  
+
+  @media  screen and (min-width: 1195px){
+    .btn1{
+        position: relative;
+        bottom: 100px;
+        left: 71%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 767px){
+    .btn1{
+        position: relative;
+        bottom: 560px;
+        left: 20%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 565px) and (min-width: 365px){
+    .btn1{
+        position: relative;
+        bottom: 550px;
+        left: 20%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+  
+
+  @media  screen and (max-width: 471px) and (min-width: 365px){
+    .btn1{
+        position: relative;
+        bottom: 600px;
+        left: 17%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+  
+  @media  screen and (max-width: 410px){
+    .btn1{
+        position: relative;
+        bottom: 640px;
+        left: 17%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 381px){
+    .btn1{
+        position: relative;
+        bottom: 685px;
+        left: 17%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 350px){
+    .btn1{
+        position: relative;
+        bottom: 735px;
+        left: 20%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 322px){
+    .btn1{
+        position: relative;
+        bottom: 775px;
+        left: 20%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 313px){
+    .btn1{
+        position: relative;
+        bottom: 820px;
+        left: 20%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
+
+  @media  screen and (max-width: 281px){
+    .btn1{
+        position: relative;
+        bottom: 860px;
+        left: 20%;
+        border: none;
+        color: #f0ecece1;
+    }
+  }
